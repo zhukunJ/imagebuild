@@ -1,1 +1,2 @@
-quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+LABEL version="4.0.2"
